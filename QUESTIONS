@@ -1,0 +1,19 @@
+Trend Analysis: How do sales figures change throughout the year across different business units? Create a line chart to visualize this.
+
+Profitability Comparison: Compare total revenues and total expenses across different business units using a grouped bar chart.
+
+Seasonality Patterns: Identify which months have the highest and lowest revenues. Use a heatmap to highlight seasonal trends.
+
+Scenario Analysis: Compare "Actuals" vs. "Forecast" for a given year and business unit. Use a line chart to see how actual performance deviates from projections.
+
+Expense Breakdown: Visualize the proportion of different expense categories (e.g., Payroll, Travel & Entertainment) using a pie chart.
+
+Year-over-Year Growth: Plot a multi-year sales trend for a specific business unit to see revenue growth over time.
+
+Monthly Variance: Use a box plot to display the variance in revenue and expenses across months to identify which months have the most fluctuation.
+
+Negative Impact Analysis: Identify which expense category has the most significant negative impact on profitability. Use a stacked bar chart.
+
+Profit Margin Analysis: Calculate and visualize the profit margin per month for a specific business unit using a line chart.
+
+Top Performing Units: Rank business units based on total annual revenue and display them using a horizontal bar chart.
